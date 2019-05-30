@@ -1,4 +1,4 @@
 # Random
-Choose 3 numbers in intervals: [0-10], [0-100], [0-1000]
+This program is trying to liken the random thinking of people.
 
-Program try to similate people's random thinking.
+It work with 3 ranges: [0-10], [0-100], [0-1000] You choose one number in this range and program try to guess this. As answer it return number of steps.
